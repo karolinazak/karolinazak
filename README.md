@@ -1,18 +1,22 @@
-<h1>About me</h1>
+About me
+=======
 
-My name is Karolina Stefanska
+My name is Karolina Stefanska.
 
-<h1>Tools</h1>
+Tools
+=======
 
 - SQL
 - Jira
 - Creating test cases
 
-<h1>Books</h1>
+Books
+=======
 
 - R.Smilgin - Zawód tester
 
-<h1>Courses</h1>
+Courses
+=======
 
 - [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira).
 
