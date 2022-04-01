@@ -9,6 +9,7 @@ Tools
 - SQL
 - Jira
 - Creating test cases
+- Reporting bugs
 
 Books
 =======
@@ -18,7 +19,8 @@ Books
 Courses
 =======
 
-- [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira).
+- [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira)
+- [SQL Essential Training](https://www.linkedin.com/learning/sql-essential-training-3/understanding-sql?autoplay=true&trk=learning-course_tocItem&upsellOrderOrigin=default_guest_learning)
 
 
 
