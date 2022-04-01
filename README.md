@@ -27,6 +27,10 @@ My test cases examples
 =======================
 - [Test cases](https://docs.google.com/spreadsheets/d/1hbP8TgLm_I88-AvL9DjSJt136it1lnYDF7uMPtWo5i8/edit#gid=0)
 
+My bug reports
+=======================
+
+
 <!---
 karolinazak/karolinazak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
