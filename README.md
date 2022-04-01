@@ -15,14 +15,16 @@ Books
 =======
 
 - R.Smilgin - Zawód tester
-
+- Piotr Wicherski - Testowanie Oprogramowania
+ 
 Courses
 =======
 
 - [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira)
 - [SQL Essential Training](https://www.linkedin.com/learning/sql-essential-training-3/understanding-sql?autoplay=true&trk=learning-course_tocItem&upsellOrderOrigin=default_guest_learning)
 
-
+My test cases examples
+=======================
 
 
 <!---
