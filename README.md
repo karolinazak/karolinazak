@@ -14,7 +14,7 @@ My name is Karolina Stefanska
 
 <h1>Courses</h1>
 
-- [Agile with Atlassian Jira](http://example.com).
+- [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira).
 
 
 
