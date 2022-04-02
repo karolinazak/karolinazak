@@ -16,6 +16,12 @@ Books
 
 - R.Smilgin - Zawód tester
 - Piotr Wicherski - Testowanie Oprogramowania
+
+Bologs read
+============
+
+- [Testerzy.pl](http://testerka.pl)
+- [Testerka.pl](https://testerzy.pl)
  
 Courses
 =======
