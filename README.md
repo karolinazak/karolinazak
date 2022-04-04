@@ -35,7 +35,7 @@ My test cases examples
 
 My bug reports
 =======================
-
+- [Bug repot for Tezeusz.pl](https://docs.google.com/document/d/1bBTFJ33CvtnX_HhcsggUzU3chI-QUyn1ErDDAEPjYn4/edit)
 
 <!---
 karolinazak/karolinazak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
