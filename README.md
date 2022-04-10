@@ -22,6 +22,7 @@ Bologs read
 
 - [Testerzy.pl](http://testerka.pl)
 - [Testerka.pl](https://testerzy.pl)
+- [w3schools.com](https://www.w3schools.com)
  
 Courses
 =======
