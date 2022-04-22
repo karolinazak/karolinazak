@@ -8,6 +8,7 @@ Tools
 
 - SQL
 - Jira
+- Postman
 - Creating test cases
 - Reporting bugs
 
